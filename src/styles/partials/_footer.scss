@@ -1,0 +1,20 @@
+footer {
+	background-color: $dark-gray;
+	color: $mango;
+	flex-direction: row;
+	justify-content: space-between;
+	flex-wrap: nowrap;
+	margin: 0 auto;
+	padding: 0 30px;
+	a {
+		padding: 20px;
+		color: $mango;
+		transition: color 0.2s ease;
+		&:hover {
+			color: $orange;
+		}
+	}
+	.social-icons {
+		align-items: center;
+	}
+}
