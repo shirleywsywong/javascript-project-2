@@ -1,15 +1,15 @@
 {
-  "main.css": "/javascript-project-2/static/css/main.16ae61b5.chunk.css",
-  "main.js": "/javascript-project-2/static/js/main.0cbad260.chunk.js",
-  "main.js.map": "/javascript-project-2/static/js/main.0cbad260.chunk.js.map",
-  "runtime~main.js": "/javascript-project-2/static/js/runtime~main.9a7ce735.js",
-  "runtime~main.js.map": "/javascript-project-2/static/js/runtime~main.9a7ce735.js.map",
-  "static/js/2.bf284bdb.chunk.js": "/javascript-project-2/static/js/2.bf284bdb.chunk.js",
-  "static/js/2.bf284bdb.chunk.js.map": "/javascript-project-2/static/js/2.bf284bdb.chunk.js.map",
-  "index.html": "/javascript-project-2/index.html",
-  "precache-manifest.ada3467cc48096e94fd4029522477684.js": "/javascript-project-2/precache-manifest.ada3467cc48096e94fd4029522477684.js",
-  "service-worker.js": "/javascript-project-2/service-worker.js",
-  "static/css/main.16ae61b5.chunk.css.map": "/javascript-project-2/static/css/main.16ae61b5.chunk.css.map",
-  "static/media/project3-index.scss": "/javascript-project-2/static/media/hero-nose.fddd1c68.jpg",
-  "static/media/loading.gif": "/javascript-project-2/static/media/loading.4afb2bd7.gif"
+  "main.css": "/NTCR/static/css/main.e215d795.chunk.css",
+  "main.js": "/NTCR/static/js/main.dd9354a1.chunk.js",
+  "main.js.map": "/NTCR/static/js/main.dd9354a1.chunk.js.map",
+  "runtime~main.js": "/NTCR/static/js/runtime~main.af9890ce.js",
+  "runtime~main.js.map": "/NTCR/static/js/runtime~main.af9890ce.js.map",
+  "static/js/2.bf284bdb.chunk.js": "/NTCR/static/js/2.bf284bdb.chunk.js",
+  "static/js/2.bf284bdb.chunk.js.map": "/NTCR/static/js/2.bf284bdb.chunk.js.map",
+  "index.html": "/NTCR/index.html",
+  "precache-manifest.45dff3bc6f17f3a724caa6ec0b0c00a9.js": "/NTCR/precache-manifest.45dff3bc6f17f3a724caa6ec0b0c00a9.js",
+  "service-worker.js": "/NTCR/service-worker.js",
+  "static/css/main.e215d795.chunk.css.map": "/NTCR/static/css/main.e215d795.chunk.css.map",
+  "static/media/project3-index.scss": "/NTCR/static/media/hero-nose.fddd1c68.jpg",
+  "static/media/loading.gif": "/NTCR/static/media/loading.4afb2bd7.gif"
 }
