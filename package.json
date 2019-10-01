@@ -2,7 +2,7 @@
   "name": "shirley-wong-project-2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shirleywsywong.github.io/javascript-project-2",
+  "homepage": "https://shirleywsywong.github.io/NTCR",
   "dependencies": {
     "axios": "^0.18.0",
     "node-sass": "^4.11.0",
